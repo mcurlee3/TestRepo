@@ -1,0 +1,6 @@
+git add *
+git commit -m"I changed the menu code"
+git push 
+
+
+git pull
